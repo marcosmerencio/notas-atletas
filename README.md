@@ -74,5 +74,5 @@ node nome-do-arquivo.js
 **Marcos Merencio** — Desenvolvedor Fullstack em formação.
 
 
-## icença
+## Licença
 O **uso, cópia e distribuição** desse projeto são **permitidos para fins de estudo e aprendizagem.**
