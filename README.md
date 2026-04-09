@@ -5,7 +5,7 @@
 
 
 ## Descrição
-Este projeto é uma aplicação lógica desenvolvida em JavaScript para automatizar o cálculo de pontuação em competições de ginástica artística. O sistema recebe dados de atletas e suas respectivas notas, aplica as regras oficiais de arbitragem (descarte de extremos) e retorna a média válida. Este projeto foi desenvolvido como o Projeto de Certificação 1 do curso de Desenvolvimento Fullstack da Geração Tech 3.0.
+Este projeto é uma aplicação lógica desenvolvida em JavaScript para automatizar o cálculo de pontuação em competições de ginástica artística. O sistema recebe dados de atletas e suas respectivas notas, aplica as regras oficiais de arbitragem (descarte de extremos) e retorna a média válida. Este projeto foi desenvolvido como o Projeto de Certificação 1 do módulo de Lógica de Programação do curso de Desenvolvimento Front-End DevStart.
 
 
 ## Funcionalidades
