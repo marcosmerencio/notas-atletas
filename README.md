@@ -71,7 +71,7 @@ node nome-do-arquivo.js
 
 
 ## Autor
-**Marcos Merencio** — Desenvolvedor Fullstack em formação.
+**Marcos Merencio** — Desenvolvedor Front-end em formação.
 
 
 ## Licença
